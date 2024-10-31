@@ -1,6 +1,6 @@
 {
   "name": "reliverse",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "description": "Reliverse is a CLI tool designed to streamline the setup of JavaScript, TypeScript, and other types of projects, with a primary focus on Next.js templates, though it is not limited to them. It allows you to effortlessly bootstrap projects, including the Relivator Next.js template or any other template from GitHub or other Git-based sources. Additionally, Reliverse assists in managing configuration files and resolving potential conflicts between tools like ESLint, Prettier, and Biome.",
   "keywords": ["reliverse", "cli"],
   "license": "MIT",
@@ -22,7 +22,7 @@
   },
   "files": ["dist"],
   "scripts": {
-    "appts": "redrun knip lint format typecheck build",
+    "appts": "redrun lint format typecheck build",
     "build": "fse remove --quiet dist && tsup",
     "ci": "pnpm lint:eslint && pnpm typecheck && pnpm && pnpm build",
     "dev": "tsx src/index.ts --dev",
@@ -47,6 +47,7 @@
     "consola": "^3.2.3",
     "execa": "^9.5.1",
     "giget": "^1.2.3",
+    "glob": "^11.0.0",
     "node-fetch": "^3.3.2",
     "nypm": "^0.3.12",
     "ofetch": "^1.4.1",

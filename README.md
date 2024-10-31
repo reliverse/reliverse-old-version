@@ -1,6 +1,13 @@
-# Reliverse
+# Reliverse CLI
 
-[GitHub](https://github.com/reliverse/cli), [npmjs](https://npmjs.com/package/reliverse)
+> 🚨 You are currently viewing an older version of the Reliverse CLI.
+> 🔥 To access the latest version, please visit the following pages:
+
+[GitHub](https://github.com/blefnk/reliverse) | [npmjs](https://www.npmjs.com/package/@reliverse/cli)
+
+> ✨ **Run the new version of Reliverse with any of the following commands:** 👉 `npx @reliverse/cli`, `pnpm dlx @reliverse/cli`, or `bunx @reliverse/cli`
+
+---
 
 **Reliverse** is a CLI tool designed to streamline the setup of JavaScript, TypeScript, and other types of projects, with a primary focus on Next.js templates, though it is not limited to them.
 

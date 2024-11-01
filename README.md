@@ -1,11 +1,14 @@
-# Reliverse CLI
+# @reliverse/cli
 
 > 🚨 You are currently viewing an older version of the Reliverse CLI.
-> 🔥 To access the latest version, please visit the following pages:
 
-[GitHub](https://github.com/blefnk/reliverse) | [npmjs](https://www.npmjs.com/package/@reliverse/cli)
+🔥 **To access the latest version, please visit the following pages:**
 
-> ✨ **Run the new version of Reliverse with any of the following commands:** 👉 `npx @reliverse/cli`, `pnpm dlx @reliverse/cli`, or `bunx @reliverse/cli`
+👉 [GitHub](https://github.com/blefnk/reliverse) | [npmjs](https://www.npmjs.com/package/reliverse)
+
+> ✨ **Run the new version of Reliverse with any of the following commands:**
+>
+> 👉 `npx reliverse`, `pnpm dlx reliverse`, or `bunx reliverse`
 
 ---
 
@@ -192,3 +195,15 @@ Reliverse takes a different, non-standard approach compared to other bootstrappe
 ## License
 
 This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for more details.
+
+---
+
+> 🚨 You are currently viewing an older version of the Reliverse CLI.
+>
+> 🔥 **To access the latest version, please visit the following pages:**
+
+👉 [GitHub](https://github.com/blefnk/reliverse) | [npmjs](https://www.npmjs.com/package/reliverse)
+
+> ✨ **Run the new version of Reliverse with any of the following commands:**
+>
+> 👉 `npx reliverse`, `pnpm dlx reliverse`, or `bunx reliverse`

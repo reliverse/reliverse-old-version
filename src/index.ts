@@ -4,9 +4,8 @@ import { consola } from "consola";
 async function main() {
   // await showReliverseMenu();
 
-  consola.warn(
-    "✨ Use this command instead 👉 `npx @reliverse/cli` OR `pnpm dlx @reliverse/cli` OR `bunx @reliverse/cli`",
-  );
+  consola.warn("✨ Please use one of the following commands instead:");
+  consola.info("👉 `npx reliverse` OR `pnpx reliverse` OR `bunx reliverse`\n");
 }
 
 main().catch((error) => {
